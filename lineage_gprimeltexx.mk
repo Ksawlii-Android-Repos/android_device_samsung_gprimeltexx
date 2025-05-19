@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2017 The LineageOS project.
+# Copyright (C) 2025 The LineageOS project.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -13,9 +13,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+
 # Inherit from common
 $(call inherit-product, device/samsung/gprimelte-common/lineage.mk)
 
+# Inherit from device
 $(call inherit-product, device/samsung/gprimeltexx/device.mk)
 
 ## Device identifier. This must come after all inclusions

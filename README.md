@@ -1,5 +1,3 @@
-# android_device_samsung_gprimeltexx
-
 ## Device tree for Samsung Galaxy Grand Prime G530FZ [gprimeltexx]
 
 Basic   | Spec Sheet
